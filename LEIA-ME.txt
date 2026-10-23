@@ -1,0 +1,11 @@
+Pão Gestão — Litoral
+
+Arquivo principal: index.html
+Cópia de segurança original: pao-gestao-litoral-modelos-visuais-atualizados.html
+
+Importante:
+- Esta é a versão visual/protótipo recuperada do arquivo HTML original.
+- O código indica que os registros são salvos no navegador atual e que há opção de exportar/importar backup.
+- Ainda não está conectado ao Supabase, não possui autenticação configurada e ainda não foi preparado como PWA.
+- Não coloque senhas, chaves secretas do Supabase ou dados sensíveis neste repositório.
+- Antes de substituir qualquer versão publicada, teste a cópia e mantenha o arquivo original como backup.
